@@ -1,0 +1,45 @@
+.ericcenter{
+    text-align: center;
+    color: white; 
+    background-color: black; 
+}
+.introduce{
+    text-align: center;
+    color:white;
+    background-color: orange;
+    border: 0px solid #333;
+    border-radius: 10px;
+    margin:20px auto;
+    padding:20px
+    }
+a :hover {
+                color: white;
+                font-size: 45px;
+                text-decoration: none;
+                font-weight: 900;
+                background-color: black;}
+.nnnn{font-size: 35px;
+text-align: center;
+}
+.mmmm{text-align: center;
+font-size: 30px;
+background-color: black; }
+.qqqq{text-align: center;}
+#contactway{
+    font-size: 20px;
+    text-align: center;
+}
+.gggg{text-align: left ;background-color:#050510;}
+section.resume-section{
+    background-color: darkgreen;
+    background-image: url("../assets/img/forest.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section.resume-section h1{color: white;}
+section#contact h2{color: white;}
+.wwww{color: white;}
+section.resume-section h3{color: white;}
+.table{color: white;}
