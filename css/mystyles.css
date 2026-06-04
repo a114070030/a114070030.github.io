@@ -9,9 +9,13 @@
     border: 0px solid #333;
     border-radius: 10px;
     margin:20px auto;
-    padding:20px
-    
-    }
+    padding: 20px;  /* 這裡要記得加分號 */
+font-family: "Noto Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 100;
+font-style: italic;
+font-variation-settings: "wdth" 100;
+}
 a :hover {
                 color: white;
                 font-size: 45px;
